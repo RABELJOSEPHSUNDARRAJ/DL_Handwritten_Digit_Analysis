@@ -1,14 +1,24 @@
-# 🧠 Handwritten Digit Image Analysis using Neural Network
+# 🧠 Handwritten Digit Analysis using Neural Network
 
-A Deep Learning project to analyze and classify handwritten digits (`0–9`) using a Neural Network on the **MNIST dataset**.
+A Deep Learning project that analyzes and classifies handwritten digits from the **MNIST dataset** using Neural Networks.
 
 ## 📌 Project Overview
 
-* Uses **70,000 handwritten digit images** of size `28 × 28`.
-* Performs data loading, preprocessing, visualization, and model training.
-* Builds and compares different Neural Network architectures.
-* Experiments with activation functions such as **Sigmoid, Tanh, and ReLU**.
-* Evaluates model performance using **training and validation accuracy/loss**.
+* Uses **70,000 handwritten digit images** representing digits `0–9`.
+* Each image contains **28 × 28 pixels**.
+* Performs data loading, exploration, and visualization.
+* Builds and compares different Neural Network models.
+* Experiments with **Sigmoid, Tanh, and ReLU** activation functions.
+* Evaluates models using **training and validation accuracy and loss**.
+
+## 📊 Dataset
+
+**MNIST Handwritten Digit Dataset**
+
+* **Training:** 60,000 images
+* **Testing:** 10,000 images
+* **Image Size:** 28 × 28 pixels
+* **Classes:** 0–9
 
 ## 🛠️ Technologies Used
 
@@ -20,23 +30,15 @@ A Deep Learning project to analyze and classify handwritten digits (`0–9`) usi
 * Seaborn
 * Scikit-learn
 
-## 📂 Dataset
+## 🔍 Key Highlights
 
-**MNIST Handwritten Digit Dataset**
+* Explored handwritten digit data
+* Built multiple Neural Network architectures
+* Compared different activation functions
+* Analyzed model accuracy and loss
+* Developed practical understanding of Deep Learning classification
 
-* Training: `60,000` images
-* Testing: `10,000` images
-* Image size: `28 × 28` pixels
-* Classes: `0–9`
+## 🎯 Objective
 
-## 🚀 Key Learning
+To understand how Neural Networks can be used for **image classification** and how different model architectures and activation functions influence performance.
 
-This project demonstrates how different **neural network architectures and activation functions** affect handwritten digit classification performance.
-
-## 📁 File
-
-`DL_Handwritten_Digit_Analysis_using_Neural_Network.ipynb`
-
----
-
-⭐ **If you find this project useful, consider giving the repository a star!**
