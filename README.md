@@ -1,4 +1,4 @@
-# 🧠 Handwritten Digit Analysis using Neural Network
+# 🧠 Handwritten Digit Image Analysis using Neural Network
 
 A Deep Learning project that analyzes and classifies handwritten digits from the **MNIST dataset** using Neural Networks.
 
